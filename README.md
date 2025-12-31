@@ -1,1 +1,1 @@
-This is the official autonomous mode for blue and red positions for First Tech Challenge Center stage.
+This is the autonomous mode code for the FTC 2024 robotics competition.
